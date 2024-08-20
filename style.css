@@ -46,7 +46,6 @@ h1 {
 #card-container {
   font-size: 0;
   margin: 50px auto;
-  padding-left: 5vw;
   width: calc((var(--card-width) + 2vw + 12px) * 4);
 }
 
